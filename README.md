@@ -10,9 +10,7 @@ You can click the Preview link to take a look at your changes.
 
 🌱 I believe in continuous learning and am committed to mastering exciting tech languages that bring value to future projects. Right now I'm learning Python, three.js, and C# to add to my library of skills.
 <br><br>
-⚡ Fun fact: I've swam with Whale Sharks!
-## <br><br>
-
+⚡ Fun fact: I've swam with Whale Sharks! <br><br>
 💻 Started my software journey at TripleTen's Software Engineer online program, where I worked on several projects and honed my skills in a range of technologies, including:
 <br><br>
 Languages 🧑🏼‍💻:
