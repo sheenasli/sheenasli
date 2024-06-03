@@ -13,11 +13,11 @@ You can click the Preview link to take a look at your changes.
 🌱 I believe in continuous learning and am committed to mastering exciting tech languages that bring value to future projects. Right now I'm learning Python, three.js, and C# to add to my library of skills.
 <br><br>
 ⚡ Fun fact: I've swam with Whale Sharks! <br><br>
-💻 The moment I took my first coding course, I was hooked. As a Full-stack Software Engineer, I love combining creativity and problem-solving. I continually seek new programming languages and frameworks to expand my skills.
+💻 I'm a store manager/banker/teacher turned full-stack developer, embracing the exhilarating world of code. My life has been marked by ever-changing environments where stepping out of my comfort zone has become the norm. Growing up in a military family, teaching English in Korea, and banking at JP Morgan Chase, continual learning and change have always been a part of my life.
 
-My diverse background as a retail store manager, banker, and teacher always left me wanting more. I found fulfillment in software engineering, where I apply my problem-solving skills and customer-centric approach to create innovative, user-centric solutions.
+In my quest for personal growth and societal impact, I discovered software engineering. It provides a creative outlet where I can leverage the solution-oriented approach and client service mantras honed over years in various industries. Although new to the tech industry, I've been completely consumed by the potential that this skill set and field offer.
 
-I aim to become a leading woman in tech, paving the way for others. I leverage my technical expertise for transformative projects that highlight diversity and drive positive social change, ensuring a more inclusive tech landscape. I've worked on several projects and honed my skills in a range of technologies, including:
+Long-term, my vision is not only to provide leading-edge, client-centric solutions but also to become an established member of the tech community, paving the way for other women. It's about breaking barriers, building bridges, and ensuring a more inclusive and impactful tech landscape. Let's code the future together!
 <br><br>
 Languages 🧑🏼‍💻:
 
